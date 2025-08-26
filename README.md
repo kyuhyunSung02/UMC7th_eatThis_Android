@@ -22,7 +22,7 @@
 
 ## 🍨 *****Contributors*****
 
-| 손주완(Lead) <br> [@vvan2](https://github.com/vvan2) | 김민주 <br> [@MINJU](https://github.com/MINJU-62) | 성규현 <br> [@dmp100](https://github.com/dmp100) | 최희원 <br> [@Choiheewon](https://github.com/heewon411) |
+| 손주완(Lead) <br> [@vvan2](https://github.com/vvan2) | 김민주 <br> [@MINJU](https://github.com/MINJU-62) | 성규현 <br> [@kyuhyunSung02](https://github.com/kyuhyunSung02) <br> [@dmp100](https://github.com/dmp100)| 최희원 <br> [@Choiheewon](https://github.com/heewon411) |
 |:---:|:---:|:---:|:---:|
 | <img width="200" src="https://github.com/user-attachments/assets/40d71434-fafc-437a-a8c9-2dcc276bc329"/> | <img width="200" src="https://github.com/user-attachments/assets/2204e157-2142-41a1-9357-5166daabb644"/> | <img width="200" src="https://github.com/user-attachments/assets/48571048-0733-41db-923f-83b97fa858ea"/> | <img width="200" src="https://github.com/user-attachments/assets/8631248c-6d9b-49f4-95f2-f956d3c22393"/> |
 |`스플래시`   `로그인`  `회원가입`<br> `애니메이션`  `알림설정` <br>   `내 정보관리` `장바구니` <br> `결제` `시세/상세페이지` | `식단/오늘`  `식단 등록내역` <br> `수동등록` `식재료 시세`<br> `식단 레시피`  `맛있는 일상 구독` <br> `즐겨찾기`  | `카카오로그인` `식단/월간`  `시세/메인` <br> `구독관리`  `구독내역` <br> `구독식단조회`    | `온보딩` `설문조사` <br> `주소록 관리`|
