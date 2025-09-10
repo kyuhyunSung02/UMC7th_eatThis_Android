@@ -133,30 +133,17 @@
 
 ```
 📂 com.example.umc
-┣ 📂 core
-┃ ┣ 📂 designsystem
-┃ ┃ ┣ 📂 theme
-┃ ┃ ┣ 📂 component
-┃ ┃ ┗ 📂 util
-┃ ┣ 📂 navigation
-┃ ┗ 📂 state
-┣ 📂 data
-┃ ┣ 📂 datasource
-┃ ┣ 📂 datasourceimpl  
-┃ ┣ 📂 model
-┃ ┃ ┣ 📂 request
-┃ ┃ ┗ 📂 response
-┃ ┣ 📂 repositoryimpl
-┃ ┗ 📂 service
-┣ 📂 domain
-┃ ┣ 📂 model
-┃ ┣ 📂 repository
-┃ ┗ 📂 usecase
-┃   ┣ 📂 user
-┃   ┗ 📂 diet
-┗ 📂 presentation
- ┣ 📂 diet
- ┃ ┗ 📂 adapter
- ┣ 📂 mypage
- ┣ 📂 survey  
- ┗ 📂 subscribe
+┣ 📂 Diet          # 식단 관련 기능
+┣ 📂 Main          # 메인 화면
+┣ 📂 Mypage        # 마이페이지
+┣ 📂 Onboarding    # 온보딩
+┣ 📂 Quote         # 시세 관련
+┣ 📂 SignUp        # 회원가입
+┣ 📂 Signin        # 로그인
+┣ 📂 Splash        # 스플래시
+┣ 📂 Subscribe     # 구독 서비스
+┣ 📂 Survey        # 설문조사
+┣ 📂 UserApi       # 사용자 API
+┣ 📂 model         # 데이터 모델
+┣ 📄 AnimationFragment.kt
+┗ 📄 CategoryAdapter.kt
